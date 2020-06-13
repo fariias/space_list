@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545630534215",
+    "firebase_url": "https://space-9ba88.firebaseio.com",
+    "project_id": "space-9ba88",
+    "storage_bucket": "space-9ba88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545630534215:android:0bfbcb956d7644b340cf62",
+        "android_client_info": {
+          "package_name": "com.diretivati.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545630534215-je1h61fa0cnc491ntsoc76vmpin3s81g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diretivati.space",
+            "certificate_hash": "fddff37bd5e6e23c6a4d493fb4b42cfa09e56873"
+          }
+        },
+        {
+          "client_id": "545630534215-ihu6p3r176ptn192ba8ha6vvk99u4akc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1j-oB--FqaNS-r5trlNurI3TQX8aoVAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545630534215-ihu6p3r176ptn192ba8ha6vvk99u4akc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
